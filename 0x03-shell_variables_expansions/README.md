@@ -1,0 +1,1 @@
+Shell inits and variables
